@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/slack-dispatch.ts": {
+      "maxDuration": 30
+    }
+  },
+  "env": {
+    "PAT": "@pat"
+  }
+}
