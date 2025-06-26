@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/slack-dispatch.ts": {
+    "api/sync-docs-dispatch.ts": {
       "maxDuration": 30
     }
   },
